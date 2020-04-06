@@ -12,3 +12,7 @@ eureka:
   client:
     service-url:
       defaultZone: http://eureka-server-9001.com:9001/eureka/
+
+source: 
+  client: 
+    name: config-prod
