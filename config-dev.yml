@@ -15,4 +15,4 @@ eureka:
 
 source: 
   client: 
-    name: config-devdev
+    name: config-dev
